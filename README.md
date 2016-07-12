@@ -1,2 +1,5 @@
 # Hello-World
-Hello World repository 
+
+Hello World from the Earth Repopulation Technology Heroes Team!
+
+
